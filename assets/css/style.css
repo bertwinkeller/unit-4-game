@@ -1,0 +1,31 @@
+.container{
+    margin-top: 20px;
+}
+#text{
+    text-align: center;
+    margin: auto;
+}
+.card{
+ float:left;
+}
+#bodycontainer{
+    margin: auto;
+    height:auto;
+}
+body{
+    margin:auto;
+}
+.gandalfimg{
+    height: 191px;
+}
+.gimleyimg{
+    height: 191px;
+}
+.gimleycard{
+    width:288px !important;
+}
+.gandalfcard{
+    width: 257px !important;
+    
+}
+]
