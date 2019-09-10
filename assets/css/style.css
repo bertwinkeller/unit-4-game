@@ -28,4 +28,27 @@ body{
     width: 257px !important;
     
 }
-]
+.sauronText{
+    margin: auto;
+    font-size: 50px;
+}
+#sauronimg{
+  width: 80%;
+  height: auto;
+  margin-left: 50px;
+}
+#versusimg{
+    height: 40%;
+    width: auto;
+    margin-top: 40px;
+}
+.versusRow{
+    margin-top: 40px;
+}
+#versusColumn{
+    text-align: center;
+}
+#fighterImage{
+    width: 90%;
+    height: auto;
+}
