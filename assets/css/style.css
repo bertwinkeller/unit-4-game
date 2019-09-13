@@ -62,3 +62,7 @@ body{
 #chosenFighterColumn{
     text-align: center;
 }
+#resetButton{
+    display: block;
+    margin: auto;
+}
