@@ -26,7 +26,7 @@ var characters = [{
 {
     name: 'Sauron',
     health: 500,
-    attackpower: Math.floor(Math.random() * 25) + 25
+    attackpower: Math.floor(Math.random() * 25) + 20
     // attackpower: () => Math.floor(Math.random() * 25) + 40
 }];
 
