@@ -38,9 +38,9 @@ body{
   margin-right: 40px;
 }
 #versusimg{
-    height: 40%;
+    height: 30%;
     width: auto;
-    margin-top: 40px;
+    margin-top: 60px;
 
 }
 .versusRow{
@@ -65,4 +65,10 @@ body{
 #resetButton{
     display: block;
     margin: auto;
+}
+#statRow{
+    text-align: center;
+    margin: auto;
+    color: red;
+    font-size: 28px;
 }
