@@ -3,6 +3,10 @@ permalink: /index.html
 
 # RPG GAME
 
+Clone the repository [here](https://github.com/bertwinkeller/unit-4-game.git)
+
+View the deployed application [here](
+
 ## How it Works
 
 - this game takes input based on a click event when a card is chosen
@@ -17,3 +21,4 @@ permalink: /index.html
 * HTML
 * CSS
 * Vanilla JS
+* Bootstrap(JQuery)
