@@ -1,6 +1,10 @@
 # unit-4-game
 permalink: /index.html
 
+# RPG GAME
+
+## How it Works
+
 - this game takes input based on a click event when a card is chosen
 - then, a column in the html is populated with character picture and information
 - the attack button when pressed, generates random attack damage for enemy and character
@@ -8,3 +12,8 @@ permalink: /index.html
 - conditional logic is put in place to see if a character died
 - if a protagonist character dies, another is chosen to defeat the enemy
 - if the enemy defeats all four characters, you lose the game, and refresh to restart
+
+## Technology Used
+* HTML
+* CSS
+* Vanilla JS
