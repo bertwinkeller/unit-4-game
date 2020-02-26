@@ -5,7 +5,7 @@ permalink: /index.html
 
 Clone the repository [here](https://github.com/bertwinkeller/unit-4-game.git)
 
-View the deployed application [here](
+View the deployed application [here](https://bertwinkeller.github.io/unit-4-game/#)
 
 ## How it Works
 
